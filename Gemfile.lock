@@ -3,6 +3,7 @@ GEM
   specs:
     httparty (0.15.6)
       multi_xml (>= 0.5.2)
+    json (2.1.0)
     multi_xml (0.6.0)
 
 PLATFORMS
@@ -10,6 +11,7 @@ PLATFORMS
 
 DEPENDENCIES
   httparty
+  json
 
 BUNDLED WITH
    1.16.0.pre.2
